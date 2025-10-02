@@ -28,7 +28,6 @@ Java와 Spring을 중심으로 웹 애플리케이션 개발을 학습하고 있
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## 📂 Project
 [아따빠르네](https://www.notion.so/2-3-attaParune-19b361a82e4780f9a7a1e5038671b041)  
-[나만의작은탕비실](https://www.notion.so/2-3-attaParune-19b361a82e4780f9a7a1e5038671b041)
 ## 📫 Contact
 Email: maelstroms@naver.com
 <!--
