@@ -23,7 +23,6 @@ Notion과 Slack을 활용한 협업 과정과 HTTPS 기반 배포 환경을 경�
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-0F9D58?style=flat&logo=heidisql&logoColor=white)
 ## 📂 Project
 [아따빠르네](https://www.notion.so/2-3-attaParune-19b361a82e4780f9a7a1e5038671b041)
 [coffeeJava](https://www.notion.so/coffeeJava-29b361a82e47801c9b1ae9d4ee882795)
