@@ -1,7 +1,6 @@
 ## 👋 소개
 안녕하세요, 백엔드 개발자를 준비하고 있는 이어진입니다.  
 Java와 Spring Boot를 기반으로 REST API를 설계하고, JPA와 MyBatis를 활용한 데이터베이스 연동 경험을 쌓았습니다.
-
 또한 프론트엔드와 협업한 팀 프로젝트를 통해 Notion과 Slack을 활용한 협업 과정과 HTTPS 기반 배포 환경을 경험했습니다.
 
 ## 🧑‍💻 Tech Stack
