@@ -26,9 +26,6 @@ Notion과 Slack을 활용한 협업 과정과 HTTPS 기반 배포 환경을 경�
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-0F9D58?style=flat&logo=heidisql&logoColor=white)
-## 🎨 Frontend(학습 중)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## 📂 Project
 [아따빠르네](https://www.notion.so/2-3-attaParune-19b361a82e4780f9a7a1e5038671b041)
 [coffeeJava](https://www.notion.so/coffeeJava-29b361a82e47801c9b1ae9d4ee882795)
