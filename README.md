@@ -24,14 +24,14 @@ Notion과 Slack을 활용한 협업 과정과 HTTPS 기반 배포 환경을 경�
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ## 📂 Project
-[attaParune](https://www.notion.so/2-3-attaParune-19b361a82e4780f9a7a1e5038671b041)
+[attaParune](https://github.com/djwls0823/attaParuneVer3)
 > 식권대장과 테이블링을 결합한 식당 예약 및 결제 플랫폼
 
 - 역할 기반 사용자 / 관리자 시스템
 - 포인트 기반 식대 결제 및 예약 기능
 - 결제 및 예약 관련 API 구현
 
-[coffeeJava](https://www.notion.so/coffeeJava-29b361a82e47801c9b1ae9d4ee882795)
+[coffeeJava](https://github.com/djwls0823/coffee-java)
 > 카페 리뷰 전문 커뮤니티
 
 - 사용자 인증 및 계정 관리 기능 구현
